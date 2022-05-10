@@ -16,7 +16,7 @@ the cypos is a frappe app that Integrates ERPNext sales invoice with CyPOS
 
    - General 
      - create new Sales Invoice and add *items* to the invoice,
-       if the item doesn't exist it creates new one.
+       if the item doesn't exist it creates new one  (same with customer).
 
    - Sample:
      #+BEGIN_SRC shell
